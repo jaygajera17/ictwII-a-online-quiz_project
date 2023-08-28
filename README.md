@@ -19,3 +19,4 @@ Online Quiz Project In Php
 
 ###  Contributor
 [@Jay Gajera](https://jaygajera17.github.io/Jay_Gajera_17/)
+[@prince jasakiya](https://github.com/jpbros-2712)
